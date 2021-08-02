@@ -1,0 +1,26 @@
+{
+  "name": "trado",
+  "version": "1.0.0",
+  "description": "A simple trading calculator for roblox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikMCM/Trado.git"
+  },
+  "author": "ErikMCM",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ErikMCM/Trado/issues"
+  },
+  "homepage": "https://github.com/ErikMCM/Trado#readme",
+  "dependencies": {
+    "download-chromium": "^2.2.1",
+    "pkg": "^4.4.9",
+    "puppeteer-core": "^5.3.1",
+    "readline": "^1.3.0",
+    "request": "^2.88.2"
+  }
+}

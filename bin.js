@@ -1,0 +1,3 @@
+const tradingCalculator = require('.')
+
+tradingCalculator()
